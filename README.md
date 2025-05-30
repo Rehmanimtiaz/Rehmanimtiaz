@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate **web developer** with expertise in building dynamic and responsive websites. My journey in development has equipped me with a strong command of **HTML, CSS, JavaScript, Boostrap 5 , PHP, MySQL, Laravel, and jQuery**. I thrive on creating efficient, user-friendly, and visually appealing web experiences.
+I'm a passionate **web developer** with expertise in building dynamic and responsive websites. My journey in development has equipped me with a strong command of **HTML, CSS, JavaScript, Boostrap 5 , PHP, MySQL, Laravel, jQuery, and Sql Server**. I thrive on creating efficient, user-friendly, and visually appealing web experiences.
 
 ---
 
